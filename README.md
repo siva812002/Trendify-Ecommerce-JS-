@@ -1,0 +1,2 @@
+# Trendify-Ecommerce-JS-
+Trendify
